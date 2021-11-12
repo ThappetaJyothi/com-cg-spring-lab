@@ -24,4 +24,21 @@
 			<value>30</value>
 		</property>
 	</bean>
+	<!--  <bean id="emp" class="com.cg.spring.lab.model.Employee">
+		<property name="eid">
+			<value>101</value>
+		</property>
+		<property name="ename">
+			<value>Sonu</value>
+		</property>
+		<property name="sal">
+			<value>10000.00</value>
+		</property>
+		<property name="bu">
+			<value>nB-BU</value>
+		</property>
+		<property name="age">
+			<value>60</value>
+		</property>
+	</bean>  -->
  </beans>
